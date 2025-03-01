@@ -1,6 +1,6 @@
-// Name: [Your Name]
-// PRN: [Your PRN]
-// Batch: [Your Batch]
+// Name: Sahil Awatramani
+// PRN: 23070126112
+// Batch: B2
 
 // Importing Scanner for user input
 import java.util.Scanner;
